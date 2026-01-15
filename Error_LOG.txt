@@ -1,0 +1,19 @@
+Error Loading File C:/Users/Panix/AppData/Roaming/SketchUp/SketchUp 2021/SketchUp/Plugins/CurvyQuads/loader.rb
+Error: #<SyntaxError: X:/CurvyQuads_Dev/tools/catmullrom_aligner_tool.rb:125: syntax error, unexpected :: at EXPR_BEG, expecting constant
+          ::::UI.messagebox("Analysis faile...
+            ^~
+>
+C:/Users/Panix/AppData/Roaming/SketchUp/SketchUp 2021/SketchUp/Plugins/CurvyQuads/loader.rb:98:in `load'
+C:/Users/Panix/AppData/Roaming/SketchUp/SketchUp 2021/SketchUp/Plugins/CurvyQuads/loader.rb:98:in `block in load_tools'
+C:/Users/Panix/AppData/Roaming/SketchUp/SketchUp 2021/SketchUp/Plugins/CurvyQuads/loader.rb:95:in `each'
+C:/Users/Panix/AppData/Roaming/SketchUp/SketchUp 2021/SketchUp/Plugins/CurvyQuads/loader.rb:95:in `load_tools'
+C:/Users/Panix/AppData/Roaming/SketchUp/SketchUp 2021/SketchUp/Plugins/CurvyQuads/loader.rb:141:in `load_suite'
+C:/Users/Panix/AppData/Roaming/SketchUp/SketchUp 2021/SketchUp/Plugins/CurvyQuads/loader.rb:212:in `<module:CurvyQuads>'
+C:/Users/Panix/AppData/Roaming/SketchUp/SketchUp 2021/SketchUp/Plugins/CurvyQuads/loader.rb:18:in `<module:MarcelloPanicciaTools>'
+C:/Users/Panix/AppData/Roaming/SketchUp/SketchUp 2021/SketchUp/Plugins/CurvyQuads/loader.rb:17:in `<top (required)>'
+C:/Program Files/SketchUp/SketchUp 2021/Tools/extensions.rb:197:in `require'
+C:/Program Files/SketchUp/SketchUp 2021/Tools/extensions.rb:197:in `load'
+C:/Users/Panix/AppData/Roaming/SketchUp/SketchUp 2021/SketchUp/Plugins/CurvyQuads.rb:60:in `register_extension'
+C:/Users/Panix/AppData/Roaming/SketchUp/SketchUp 2021/SketchUp/Plugins/CurvyQuads.rb:60:in `<module:CurvyQuads>'
+C:/Users/Panix/AppData/Roaming/SketchUp/SketchUp 2021/SketchUp/Plugins/CurvyQuads.rb:34:in `<module:MarcelloPanicciaTools>'
+C:/Users/Panix/AppData/Roaming/SketchUp/SketchUp 2021/SketchUp/Plugins/CurvyQuads.rb:33:in `<top (required)>'
